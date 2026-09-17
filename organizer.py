@@ -1,16 +1,3 @@
-"""
-Auto File Organizer — proyek gabut yang berguna :)
-Otomatis rapiin file-file di suatu folder (misal Downloads)
-ke dalam subfolder berdasarkan jenis file-nya.
-
-Cara jalanin:
-    python organizer.py
-    (nanti akan ditanya folder mana yang mau dirapikan)
-
-    atau langsung kasih path:
-    python organizer.py /path/ke/folder
-"""
-
 import os
 import shutil
 import sys
